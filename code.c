@@ -16,5 +16,7 @@ int main() {
     // Close the file stream
     fclose(file);
 
+    printf ("1");
+
     return 0;
 }
