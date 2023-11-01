@@ -50,7 +50,6 @@ void sort( struct STOCK pstocks[] )
 
 int main()
 {
-    printf ("Ive made a change");
     day[1].stock[0].volume = 24324;
     day[1].stock[1].volume = 14;
     day[1].stock[2].volume = 452;
