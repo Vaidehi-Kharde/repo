@@ -50,7 +50,10 @@ void sort( struct STOCK pstocks[] )
 
 int main()
 {
+<<<<<<< HEAD
     //fgsdfgf
+=======
+>>>>>>> 4aead3aca878d9ab820e923f47edb981bb01ee4b
     day[1].stock[0].volume = 24324;
     day[1].stock[1].volume = 14;
     day[1].stock[2].volume = 452;
